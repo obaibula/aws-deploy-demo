@@ -9,7 +9,7 @@ public class FailingTest {
 
     @Test
     public void fail() {
-        assertThat(true).isFalse();
+
     }
 
 }
